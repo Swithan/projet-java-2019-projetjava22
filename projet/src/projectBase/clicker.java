@@ -146,6 +146,23 @@ public class clicker {
 				
 			}
 	 }
+	
+	public static reborn() {
+		degats = 1;
+		monstrePV = 10;
+		monstreValue = 10;
+		pourcent = 0.01;
+		gold = 0;
+		upgradeValue = 10;
+		nbrMonstre= 0;
+		nbrBoss = 10;
+		goldValue = 6;
+		nbrPet = 0;
+		petDmg = 0;
+		petValue = 20;
+		croissanceUpgrade = 2;
+	}
+	
 	/**
 	 * @param args
 	 */
